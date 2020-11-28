@@ -6,8 +6,6 @@ Fun fact: I love to work on Linux.<img title="linux" alt="linux" src="https://ra
 
 <p align="left">
   <a href="https://www.linkedin.com/in/victoriagmolina/"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
-  <a href="https://twitter.com/fruti_lulis"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>
-  
 </p>
 <!--
 **VictoriaMolina/VictoriaMolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
