@@ -2,8 +2,6 @@
 I am an IT student at Universidad La Salle Chihuahua. I'm interested in databases and Frontend.
 I also love to draw and hope that one day I can design a character maybe for a videogame <3
 
-Fun fact: I love to work on Linux.<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="26" />
-
 <p align="left">
   <a href="https://www.linkedin.com/in/victoriagmolina/"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
 </p>
