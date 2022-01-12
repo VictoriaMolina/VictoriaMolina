@@ -1,5 +1,5 @@
-<h2> Hi, I'm Victoria! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
-I am an IT student at Universidad La Salle Chihuahua. I'm interested in databases and Backend.
+<h2> Hi, I'm Victoria! (She/Her) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
+I'm interested in databases and Backend.
 I also love to draw and hope that one day I can design a character maybe for a videogame <3
 
 <p align="left">
